@@ -1,4 +1,4 @@
-bot_of_b = 99
+bot_of_b = 100
 
 while bot_of_b > 1
   puts '' + bot_of_b.to_s + ' bottles of beer on the wall, ' + bot_of_b.to_s + ' bottles of beer.
